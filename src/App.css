@@ -1,0 +1,21 @@
+h1 {
+  margin-top: 10px;
+}
+.language {
+  margin-top:8px;
+}
+.form-group .sm {
+  width: 65px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: inline-block;
+}
+.xy-position {
+  margin-top: 15px;
+}
+.direction {
+
+}
+.crash {
+  color: orangered;
+}
