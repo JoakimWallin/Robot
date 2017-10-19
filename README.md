@@ -7,6 +7,10 @@ paragraphs you can paste in before the robot crash!
 
 cd in to the Robot folder and simply run.
 
-npm start to start the app.
+npm install
 
-Run npm test to run the tests.
+-to start the app.
+npm start
+
+-to run the tests.
+npm test
